@@ -3,7 +3,7 @@
 <!-- <p align="center">
 <!--   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3> -->
 </p>
- -->
+
 
 - ✍ I'm a data engineer.
 
@@ -12,7 +12,7 @@
 ## 📫 How to reach me:
 
 
-<p align="center">
+<p align="right">
 <!--   <a href="https://linkedin.com/in/tien-nhm" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a> -->
