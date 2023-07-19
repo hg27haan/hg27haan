@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a data engineer.
+- ✍ I'm a Data Engineer.
 - 👩‍🎓 I'm student at Ho Chi Minh city University of Technology and Education.
 
 <br />
