@@ -6,6 +6,7 @@
 
 
 - ✍ I'm a data engineer.
+- 👩‍🎓 I'm student at Ho Chi Minh city University of Technology and Education.
 
 <br />
 
