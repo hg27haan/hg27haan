@@ -1,12 +1,10 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Gia Han Huynh </h1>
-<!-- <p align="center">
-<!--   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3> -->
+<h1 align="center">Hello everyone👋, I'm Gia Han Huynh </h1>
 </p>
 
 
-- ✍ I'm a Data Engineer.
-- 👩‍🎓 I'm student at Ho Chi Minh city University of Technology and Education.
+- 💻 &nbsp; I'm a Data Engineer student at [HCMC University of Technology and Education](https://hcmute.edu.vn)\
+- ✍️ &nbsp;In my free time, I enjoy watching football\
 
 <br />
 
@@ -26,12 +24,9 @@
 <!--   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a> -->
-<!--   <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a> -->
-<!--   <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+  <a href="mailto:giahanhuynh2705.work.it@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a> -->
+  </a>
 </p>
 
 <!--## Skills:
@@ -81,3 +76,8 @@
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
 --> 
+
+
+
+
+
