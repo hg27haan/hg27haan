@@ -1,5 +1,5 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hello everyone👋, I'm Gia Han Huynh </h1>
+<h1 align="center">Hello👋, I'm Gia Han Huynh </h1>
 </p>
 
 
