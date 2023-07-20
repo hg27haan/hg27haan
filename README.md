@@ -3,8 +3,8 @@
 </p>
 
 
-- 💻 &nbsp; I'm a Data Engineer student at [HCMC University of Technology and Education](https://hcmute.edu.vn)\
-- ✍️ &nbsp;In my free time, I enjoy watching football\
+- 💻 &nbsp; I'm a Data Engineer student at [HCMC University of Technology and Education](https://hcmute.edu.vn)
+- ✍️ &nbsp;In my free time, I enjoy watching football
 
 <br />
 
