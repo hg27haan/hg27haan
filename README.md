@@ -1,9 +1,7 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hello👋, I'm Gia Han Huynh </h1>
-<p>
- - 💻&nbsp; I'm a Data Engineer student at [HCMC University of Technology and Education](https://hcmute.edu.vn).
- - ✍️&nbsp;In my free time, I enjoy listening to music and reading books.
-</p>
+<p> - 💻&nbsp; I'm a Data Engineer student at [HCMC University of Technology and Education](https://hcmute.edu.vn). </p>
+<p> - ✍️&nbsp;In my free time, I enjoy listening to music and reading books.</p>
 
 ## 📫 How to reach me:
 <p align="left">
