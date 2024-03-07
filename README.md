@@ -29,3 +29,7 @@
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hg27haan)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hg27haan&layout=compact)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hg27haan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hg27haan's github stats" /></a> | <a href="https://github.com/hg27haan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hg27haan&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+
