@@ -89,3 +89,11 @@
 ## 📊 GitHub Stats:
 <a href="https://github.com/hg27haan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hg27haan&layout=compact&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hg27haan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hg27haan's github stats" /></a> | 
 | ------------- | ------------- |
+
+## Certificates:
+
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Google Data Analytics]([https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG](https://coursera.org/share/342d01ff3725ce8ca78d268198604972))
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Fundamentals of Digital Image and Video Processing]([https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG](https://coursera.org/share/5949c65aa39a6c267098cafd839d0970)https://coursera.org/share/5949c65aa39a6c267098cafd839d0970)
+
