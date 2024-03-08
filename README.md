@@ -3,7 +3,7 @@
 <p> - 💻&nbsp; I'm a Data Engineer student at <strong>Ho Chi Minh city University of Technology and Education</strong>(https://hcmute.edu.vn).</p>
 <p> - ✍️&nbsp;In my free time, I enjoy listening to music and reading books.</p>
 
-## Languages and Tools:
+## 👩‍💻 Languages and Tools:
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
