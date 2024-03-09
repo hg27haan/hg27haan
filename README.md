@@ -1,5 +1,5 @@
-<h1 align="center">Hello👋, I'm Gia Han Huynh </h1>
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<h1 align="center">Hello👋, I'm Gia Han Huynh </h1>
 <p> - 💻&nbsp; I'm a Data Engineer student at <strong>Ho Chi Minh city University of Technology and Education</strong>(https://hcmute.edu.vn).</p>
 <p> - ✍️&nbsp;In my free time, I enjoy listening to music and reading books.</p>
 
