@@ -94,6 +94,6 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Google Data Analytics]([https://www.coursera.org/account/accomplishments/specialization/KAD6LZ6QPJ94](https://coursera.org/share/fe784281c5e662e103de1ccfc49388ce))
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/KAD6LZ6QPJ94)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Fundamentals of Digital Image and Video Processing]()
 
