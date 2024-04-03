@@ -75,13 +75,13 @@
  <a href="https://github.com/hg27haan" alt="Github">
      <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
  </a> 
-  <a href="www.linkedin.com/in/ghaanh2705" target="_blank">
+  <a href="https://www.linkedin.com/in/ghaanh2705/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/hg27haan" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="mailto:giahanhuynh2705.work.it@gmail.com" alt="Email">
+  <a href="mailto:giahanhuynh2705.work@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
